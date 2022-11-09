@@ -38,5 +38,10 @@
     "eslint-plugin-react": "7.31.10",
     "loader-utils": "3.2.0",
     "prettier-eslint-cli": "^5.0.1"
+  },
+  "overrides": {
+    "react": "18.2.0",
+    "react-is": "18.2.0",
+    "react-dom": "18.2.0"
   }
 }
