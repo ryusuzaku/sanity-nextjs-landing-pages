@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "@netlify/plugin-nextjs": "4.28.6",
+    "@netlify/esbuild-linux-64": "0.14.39",
     "cssnano": "5.1.14",
     "eslint": "8.27.0",
     "eslint-config-next": "13.0.2",
