@@ -4,7 +4,7 @@
   composes: center from "../../styles/shared.module.css";
   position: relative;
   background-color: var(--color-black, #000);
-  color: var(--color-white, #fff);
+  color: var(--color-white, rgb(222, 112, 236));
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
